@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T02:32:48.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Slhsf1UoCR7e_9X018CS" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T02:41:00.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PROkqYL7WnMPQBWvpO3N" version="13.7.3" type="github">
   <diagram id="QV5yhvARNIt89ldhzEQS" name="Page-1">
     <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,34 +85,43 @@
         <mxCell id="028t2qpXYjsF1yHO4Z3Y-29" value="Delay 500" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-1" target="cepRIw88IbWqpAstA1OE-2">
+        <mxCell id="cepRIw88IbWqpAstA1OE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cepRIw88IbWqpAstA1OE-1" target="cepRIw88IbWqpAstA1OE-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-1" value="Delay 500" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cepRIw88IbWqpAstA1OE-1" value="Delay 500" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-2" value="Apago Luz pin 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="spNXiwe6CdlM4EFJ_FbK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-2" target="cepRIw88IbWqpAstA1OE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="340" />
+              <mxPoint x="130" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cepRIw88IbWqpAstA1OE-2" value="Apago Luz pin 4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-4" target="cepRIw88IbWqpAstA1OE-5">
+        <mxCell id="cepRIw88IbWqpAstA1OE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cepRIw88IbWqpAstA1OE-4" target="cepRIw88IbWqpAstA1OE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-4" value="Delay 500" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cepRIw88IbWqpAstA1OE-4" value="Delay 500" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-5" target="cepRIw88IbWqpAstA1OE-6">
+        <mxCell id="cepRIw88IbWqpAstA1OE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cepRIw88IbWqpAstA1OE-5" target="cepRIw88IbWqpAstA1OE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-5" value="Enciendo Luz pin 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cepRIw88IbWqpAstA1OE-5" value="Enciendo Luz pin 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-6" target="cepRIw88IbWqpAstA1OE-7">
+        <mxCell id="cepRIw88IbWqpAstA1OE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cepRIw88IbWqpAstA1OE-6" target="cepRIw88IbWqpAstA1OE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-6" value="Delay 4000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cepRIw88IbWqpAstA1OE-6" value="Delay 4000" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cepRIw88IbWqpAstA1OE-7" target="028t2qpXYjsF1yHO4Z3Y-6">
+        <mxCell id="cepRIw88IbWqpAstA1OE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cepRIw88IbWqpAstA1OE-7" target="028t2qpXYjsF1yHO4Z3Y-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="180" as="targetPoint" />
             <Array as="points">
@@ -122,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cepRIw88IbWqpAstA1OE-7" value="Apago Luz pin 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cepRIw88IbWqpAstA1OE-7" value="Apago Luz pin 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

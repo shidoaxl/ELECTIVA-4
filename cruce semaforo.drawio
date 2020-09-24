@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T21:09:03.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.3" etag="5h4VJ1gi8B8mzJxNk6tv" type="github"><diagram id="pawvu1BAEmbm_MDjm5eN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-24T21:46:34.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="72JX-7jQ5s5uiUAnV2pE" version="13.7.3" type="github">
+  <diagram id="pawvu1BAEmbm_MDjm5eN" name="Página-1">
+    <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-2" target="iDK_fKQRuGepIGv_lMt7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-2" value="Int." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-3" target="iDK_fKQRuGepIGv_lMt7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-3" value="Se declaran las variables a utilizar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-4" target="iDK_fKQRuGepIGv_lMt7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-4" value="loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-5" target="iDK_fKQRuGepIGv_lMt7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="205" />
+              <mxPoint x="130" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-5" value="se definene los pines del 2 al 13 como salidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-6" target="iDK_fKQRuGepIGv_lMt7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-6" value="loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-11" target="iDK_fKQRuGepIGv_lMt7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-11" value="enciendo en verde semáforo a y b, en rojo semáforo c y d. todo durante 10 seg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-12" target="iDK_fKQRuGepIGv_lMt7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-12" value="apago verde de a y b y prendo amarillo por 2 segundos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-13" target="iDK_fKQRuGepIGv_lMt7-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="330" />
+              <mxPoint x="130" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-13" value="apago amarillo de a y b y prendo rojo&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-14" target="iDK_fKQRuGepIGv_lMt7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-14" value="prendo amarillo de c y d 2 segundos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-15" target="iDK_fKQRuGepIGv_lMt7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-15" value="apago amarilo de c y d y prendo verde 10 segundos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-16" target="iDK_fKQRuGepIGv_lMt7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-16" value="apago verde de c y d y prendo amarillo por 2 seg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-18" target="iDK_fKQRuGepIGv_lMt7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-18" value="apago amarillo de c y d y prendo rojo.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDK_fKQRuGepIGv_lMt7-19" target="iDK_fKQRuGepIGv_lMt7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="500" />
+              <mxPoint x="30" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDK_fKQRuGepIGv_lMt7-19" value="espero 2 segundos, reinicio loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

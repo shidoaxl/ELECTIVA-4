@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T03:00:42.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_OS9kroVsW9pkhmwz_QP" version="13.7.5" type="github"><diagram id="Cf62of3ECSl_03fqjoq8" name="Página-1">5VlNc5swEP01nmkP6SCwsX1MnY9m2k4z40OSowwKqJURI4Rt+usrgUB8JAx17YhMLwatVtbq7dNbyZ44q+3hlsE4/E59RCa25R8mztXEtucLW3xKQ6YMzqIwBAz7hQlowxr/RspoKWuKfZQ0HDmlhOO4afRoFCGPN2yQMbpvuj1T0pw1hgHqGNYeJF3rA/Z5WFgX9lzbvyAchOXMwF0WPVtYOquVJCH06b5mcq4nzopRyou37WGFiMSuxKUYd/NKbxUYQxEfMuDm0betCye4/BFd7DYb9yElXy+ASs8OklStWEXLsxIC5AtEVJMyHtKARpBca+tnRtPIR3IeS7S0zzdKY2EEwvgTcZ6p9MKUU2EK+Zao3u5a1PISmjIP9S1AcQKyAPEeP7UsuZbaBAqpW0S3iLNMODBEIMe7ZvahIlFQ+WmcxYuC+m9gd/4T2J1xwd5BfUfFALFexNO4kwGNrwRrH2KO1jHMcdkLsRuI5Q4xjg69qy97LSUVpVaq5l4LDyjVJKyJjmudC6+pCVYKAFn2KMd/mpXNJ/V1eePq0GhlqnU8m21TbFZD7ykWIVc8cFo8AItWgotA1Sid40vGYFZzi6VD0jPPbNqcZzZrVpCWP3CtPn/xUkSgCVdhcjwHuwUKRz72qCyx1JcPH4mPNKleCU0kD3CEkoIPUD5Skoj6y/LoBSUgwT7U3cUYImhru3Art3a0SeKKVAZFwV42k/SWovDwRMgUrQ9392Qf/Vo9b9xk9YKImitdrZ143O53Bu5+12Tp6h4YcqhMs7NdssDSeM1ajIifx9DRHUjHuamj1YuqYARkfVJonBP0saH3pHAS8RiaLWC9UXb6oqztiQBFiNG85nk8zWtgXjxF2axeq5I5MpFxgHGRWb5zkZkPpO3ClMj0RV1DfX0n2h9qh7v8zCf7BKgfR3+YM8/k90bckxPylatOW3Km57mCuc7L87x2BWv7z0C///yf3FvRnOeC1z2v5dcwC8g0Rx5GkaxGq/J6ZuVZiGEAje/m6XJsdcke0+XsqN8VrYGFCYBRVaYy7hrwiCTIOEXbBWdqnqLOO2PkyYk2UNmtYRXnVDIMutKhdTjXW/ljW1OGhTwLdcayY2RSfE6ei6b+166AX//16Vz/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-25T03:11:42.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="f1ZVpZYSJvSZsHccfy9w" version="13.7.5" type="github">
+  <diagram id="Cf62of3ECSl_03fqjoq8" name="Página-1">
+    <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXd20-3gAOn-vbb6WulK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-1" target="FXd20-3gAOn-vbb6WulK-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-1" target="FXd20-3gAOn-vbb6WulK-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-1" value="void setup" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FXd20-3gAOn-vbb6WulK-2" target="FXd20-3gAOn-vbb6WulK-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="155" />
+              <mxPoint x="160" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-2" value="indico modo de uso de los pines para pulsador y salida para los led&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYll4eSxIPlwnkCfb6sC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-3" target="FXd20-3gAOn-vbb6WulK-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-3" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-6" target="FXd20-3gAOn-vbb6WulK-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WYll4eSxIPlwnkCfb6sC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FXd20-3gAOn-vbb6WulK-6" target="FXd20-3gAOn-vbb6WulK-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-6" value="genero lectura de pin de pulsador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-7" target="FXd20-3gAOn-vbb6WulK-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-7" value="SI (pulsador es ==0)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="340" />
+              <mxPoint x="630" y="510" />
+              <mxPoint x="70" y="510" />
+              <mxPoint x="70" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-8" value="led 1 enciende, led 2 apaga" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-10" target="FXd20-3gAOn-vbb6WulK-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-10" value="else" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FXd20-3gAOn-vbb6WulK-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXd20-3gAOn-vbb6WulK-11" value="led 1 apagado, led 2 encendido" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

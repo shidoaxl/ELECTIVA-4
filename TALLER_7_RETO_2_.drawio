@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T18:38:39.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="7q3ERHhzzmEp9L6Q-VpC" type="github"><diagram id="meupC6GVlyr8jvLcrLCe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-02T18:59:57.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FsI3dtdbVXvBZUT0I-44" version="13.7.7" type="github">
+  <diagram id="meupC6GVlyr8jvLcrLCe" name="Page-1">
+    <mxGraphModel dx="1117" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-1" target="QtLehB7x2Fdpih5CaZ7L-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-1" value="DEFINIR VARIABLES&amp;nbsp; PARA PULSADORES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-2" target="QtLehB7x2Fdpih5CaZ7L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-2" value="setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-3" target="QtLehB7x2Fdpih5CaZ7L-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="260" />
+              <mxPoint x="170" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-3" value="inicio los puertos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-6" target="QtLehB7x2Fdpih5CaZ7L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-6" value="loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-7" target="QtLehB7x2Fdpih5CaZ7L-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-7" target="QtLehB7x2Fdpih5CaZ7L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-7" value="leo pulsadores y los guardo en variable ESTADO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-14" target="QtLehB7x2Fdpih5CaZ7L-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-14" value="almaceno lectura pulsador asc en --&amp;gt; variable estado actual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-15" target="QtLehB7x2Fdpih5CaZ7L-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-15" value="almaceno lectura pulsador des en --&amp;gt; variable estado actual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-16" target="QtLehB7x2Fdpih5CaZ7L-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="150" />
+              <mxPoint x="170" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-16" value="creo variables comparativas y contador, los inicio en cero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-19" target="QtLehB7x2Fdpih5CaZ7L-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-19" value="comparo estado actual con variable comparativa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="710" />
+              <mxPoint x="330" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-20" value="si la comparacion es diferente, contador incrementa +1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-21" target="QtLehB7x2Fdpih5CaZ7L-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-21" value="comparo estado actual con variable comparativa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-22" target="QtLehB7x2Fdpih5CaZ7L-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-22" value="si la comparacion es diferente, contador disminuye -1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-29" target="QtLehB7x2Fdpih5CaZ7L-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-29" target="QtLehB7x2Fdpih5CaZ7L-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-29" target="QtLehB7x2Fdpih5CaZ7L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-29" value="si contador = 1&lt;br&gt;encienda led 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-30" target="QtLehB7x2Fdpih5CaZ7L-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-30" target="QtLehB7x2Fdpih5CaZ7L-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-30" value="si contador = 2&lt;br&gt;encienda led 1 y 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-31" target="QtLehB7x2Fdpih5CaZ7L-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-31" target="QtLehB7x2Fdpih5CaZ7L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-31" value="si contador = 3&lt;br&gt;encienda led 1 a 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-32" target="QtLehB7x2Fdpih5CaZ7L-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-32" target="QtLehB7x2Fdpih5CaZ7L-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-32" value="si contador = 4&lt;br&gt;encienda led 1 a 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-33" target="QtLehB7x2Fdpih5CaZ7L-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-33" value="si contador = 5&lt;br&gt;encienda led 1 a 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-40" target="QtLehB7x2Fdpih5CaZ7L-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-40" value="si pulsador led =0&lt;br&gt;encienda led intermitente en t =200 ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="730" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-41" target="QtLehB7x2Fdpih5CaZ7L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-41" value="si pulsador led =0&lt;br&gt;encienda led intermitente en t =400 ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="820" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-42" target="QtLehB7x2Fdpih5CaZ7L-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-42" value="si pulsador led =0&lt;br&gt;encienda led intermitente en t =600 ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="910" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtLehB7x2Fdpih5CaZ7L-43" target="QtLehB7x2Fdpih5CaZ7L-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-43" value="si pulsador led =0&lt;br&gt;encienda led intermitente en t =800 ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1000" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtLehB7x2Fdpih5CaZ7L-44" value="si pulsador led =0&lt;br&gt;encienda led intermitente en t =1000 ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1090" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
